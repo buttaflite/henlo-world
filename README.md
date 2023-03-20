@@ -11,19 +11,28 @@
 
 and now, copy-pasting from a cheat sheet, for research alone
 
+Przed użyciem zapoznaj się z treścią ulotki dołączonej do opakowania bądź skonsultuj się z lekarzem lub farmaceutą. [^1]
+
+[^1]: gdyż każdy lek niewłaściwie stosowany zagraża Twojemu życiu lub zdrowiu.
+
 ```
 {
   "cat_name": "Kebab"
 }
 ```
 
-Przed użyciem zapoznaj się z treścią ulotki dołączonej do opakowania bądź skonsultuj się z lekarzem lub farmaceutą. [^1]
-
-[^1]: gdyż każdy lek niewłaściwie stosowany zagraża Twojemu życiu lub zdrowiu.
-
 ### Aku kucing itu
 
 - [x] I am that cat
 - [ ] I am this cat
 - [x] Keqing is love/life
+
+Matt Rose time! :skull:
+
+-highlighting doesn't seem to work :thinking:
+
+H~2~O [^2]
+
+[^2]: Source: https://www.markdownguide.org/cheat-sheet/
+
 
