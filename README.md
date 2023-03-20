@@ -1,2 +1,2 @@
 # henlo-world
-testing, testing, 1, 2, 3 (figuring github out)
+Trying to figure out how github works, don't mind me
