@@ -1,4 +1,5 @@
 # henlo-world
-Trying to figure out how github works, don't mind me
+This repository is to help me figure out how github formatting works, __don't mind me__
 
-Formatting, formatting
+~~Formatting, formatting...~~
+**Got it**, *probably*
